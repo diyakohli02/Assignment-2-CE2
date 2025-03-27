@@ -1,1 +1,1 @@
-to add new tasks we use echo and edititng both
+STUDY, LAUNDRY, COOKING
